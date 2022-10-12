@@ -1,0 +1,5 @@
+ERROR: Exception caught trying to open file D:\KIMGYUHAN\project\FPGA\Time_Clock\Time_Clock.runs\synth_1/runme.log
+See file D:\KIMGYUHAN\project\FPGA\Time_Clock\Time_Clock.runs\synth_1/exception.log for details.
+D:\KIMGYUHAN\project\FPGA\Time_Clock\Time_Clock.runs\synth_1\rundef.js(22, 1) Microsoft JScript 런타임 오류: 사용 권한이 없습니다.
+
+CScript 오류: Windows Script Host 실행에 실패하였습니다. (0x80020102)

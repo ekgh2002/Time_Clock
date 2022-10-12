@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/BCDtoFND_Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCDtoFND_Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/ClockCounter_FND.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ClockCounter_FND
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/Clock_Divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Clock_Divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/Digit_Divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Digit_Divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/FND_DigitDecoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FND_DigitDecoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/Mux_2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux_2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/Mux_4to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux_4to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/TimeClock_Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TimeClock_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sources_1/new/Time_Clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Time_Clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.srcs/sim_1/new/tb_TimeClock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_TimeClock

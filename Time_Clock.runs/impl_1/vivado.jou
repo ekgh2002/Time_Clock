@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Oct 12 18:09:42 2022
+# Process ID: 3908
+# Current directory: D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.runs/impl_1
+# Command line: vivado.exe -log Time_Clock.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Time_Clock.tcl -notrace
+# Log file: D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.runs/impl_1/Time_Clock.vdi
+# Journal file: D:/KIMGYUHAN/project/FPGA/Time_Clock/Time_Clock.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Time_Clock.tcl -notrace
